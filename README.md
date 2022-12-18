@@ -1,3 +1,5 @@
+YOLO와 Pytorch 오픈소스를 이용한 쓰레기 종류 분석 프로젝트입니다.
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aquavision-automating-the-detection-of-waste/object-detection-on-aquatrash)](https://paperswithcode.com/sota/object-detection-on-aquatrash?p=aquavision-automating-the-detection-of-waste)
 [![harshpanwar](https://img.shields.io/twitter/follow/harsh__panwar?style=social)](https://mobile.twitter.com/harsh__panwar)
 
